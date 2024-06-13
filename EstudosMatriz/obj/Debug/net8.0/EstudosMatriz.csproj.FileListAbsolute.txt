@@ -1,0 +1,14 @@
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosMatriz\EstudosMatriz\bin\Debug\net8.0\EstudosMatriz.exe
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosMatriz\EstudosMatriz\bin\Debug\net8.0\EstudosMatriz.deps.json
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosMatriz\EstudosMatriz\bin\Debug\net8.0\EstudosMatriz.runtimeconfig.json
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosMatriz\EstudosMatriz\bin\Debug\net8.0\EstudosMatriz.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosMatriz\EstudosMatriz\bin\Debug\net8.0\EstudosMatriz.pdb
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosMatriz\EstudosMatriz\obj\Debug\net8.0\EstudosMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosMatriz\EstudosMatriz\obj\Debug\net8.0\EstudosMatriz.AssemblyInfoInputs.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosMatriz\EstudosMatriz\obj\Debug\net8.0\EstudosMatriz.AssemblyInfo.cs
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosMatriz\EstudosMatriz\obj\Debug\net8.0\EstudosMatriz.csproj.CoreCompileInputs.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosMatriz\EstudosMatriz\obj\Debug\net8.0\EstudosMatriz.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosMatriz\EstudosMatriz\obj\Debug\net8.0\refint\EstudosMatriz.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosMatriz\EstudosMatriz\obj\Debug\net8.0\EstudosMatriz.pdb
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosMatriz\EstudosMatriz\obj\Debug\net8.0\EstudosMatriz.genruntimeconfig.cache
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosMatriz\EstudosMatriz\obj\Debug\net8.0\ref\EstudosMatriz.dll
