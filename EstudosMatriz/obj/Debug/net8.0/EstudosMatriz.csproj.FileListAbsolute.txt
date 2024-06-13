@@ -12,3 +12,4 @@ C:\Users\caioa\Documents\Caio\VsCommunity\EstudosMatriz\EstudosMatriz\obj\Debug\
 C:\Users\caioa\Documents\Caio\VsCommunity\EstudosMatriz\EstudosMatriz\obj\Debug\net8.0\EstudosMatriz.pdb
 C:\Users\caioa\Documents\Caio\VsCommunity\EstudosMatriz\EstudosMatriz\obj\Debug\net8.0\EstudosMatriz.genruntimeconfig.cache
 C:\Users\caioa\Documents\Caio\VsCommunity\EstudosMatriz\EstudosMatriz\obj\Debug\net8.0\ref\EstudosMatriz.dll
+C:\Users\caioa\Documents\Caio\VsCommunity\EstudosMatriz\EstudosMatriz\obj\Debug\net8.0\EstudosMatriz.sourcelink.json
